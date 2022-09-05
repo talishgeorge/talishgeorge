@@ -22,19 +22,19 @@
 <p align="left"> 
        Primary Skill – iOS (Swift 5.5 & Objective C)
        <br>
-       Secondary Skill – .NET Core API, JavaScript & Azure
+       Secondary Skill – .NET Core API 2022 & Azure
        <br>
-       Databases – SQL Server & MySQL
+       Databases – SQL Server 2019
        <br>
-       Operating systems – Mac OS Monterey Sur& Windows 11
+       Operating systems – Mac OS Monterey & Windows 11
        <br>
        Development IDE – Xcode 13.4.1, Visual Studio 2022 & VS Code
        <br>
-       Version Controls – GIT using Sourcetree
+       Version Controls – GIT using Sourcetree & GITHUB Desktop
        <br>
-       Design Tools – Visio & Adobe Photoshop
+       Design Tools – Sketch, Canva, Visio & Adobe Photoshop
        <br>
-       Backend Development –.NET Core 6 & SQL Server
+       Backend Development –.NET Core 6
  </p>
 
 <h3 align="left">Certificaiton:</h3>
