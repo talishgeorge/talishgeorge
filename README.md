@@ -39,6 +39,13 @@
 
 <h3 align="left">Certificaiton:</h3>
 <p aligin="left">
+       Azure – Developing Solutions for Microsoft Azure
+        <br>
+Microsoft Certification ID: 993792659
+        <br>
+Validate at: https://www.credly.com/go/8V4fMTsTTABBMs692lkwJw 
+ <br>
+
        AWS - Certified Solutions Architect – Associate
        <br>
 Validation Number REDEPC7BLJV11C3Y 
