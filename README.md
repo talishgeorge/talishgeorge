@@ -41,21 +41,20 @@
 <p aligin="left">
        Azure – Developing Solutions for Microsoft Azure
         <br>
-        Microsoft Certification ID: 993792659
+        Validate at: https://www.credly.com/go/8V4fMTsTTABBMs692lkwJw 
+       <br>
+       <br>
+       AWS – Certified Solutions Architect – Associate
         <br>
         Validate at: https://www.credly.com/go/8V4fMTsTTABBMs692lkwJw 
        <br>
 
-       AWS - Certified Solutions Architect – Associate
-       <br>
-       Validation Number REDEPC7BLJV11C3Y 
-       <br>
-Validate at: http://aws.amazon.com/verification 
-       <br>
-
 MCSA - Microsoft® Certified Solutions Associate: Web Applications - Certified 2019
        <br>
-Issued by: Microsoft Issued on: 30 April 2019
+Validate at: https://mcp.microsoft.com/Anonymous//Transcript/Validate
        <br>
+       Transcript ID 1231653
+        <br>
+       Access Code: 30042019
  </p>
 
