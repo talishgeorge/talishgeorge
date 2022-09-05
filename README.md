@@ -37,6 +37,15 @@
        Backend Development –.NET Core 6 & SQL Server
  </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Certificaiton:</h3>
+<p aligin="left">
+       AWS - Certified Solutions Architect – Associate
+Validation Number REDEPC7BLJV11C3Y 
+Validate at: http://aws.amazon.com/verification 
+
+MCSA - Microsoft® Certified Solutions Associate: Web Applications - Certified 2019
+Issued by: Microsoft Issued on: 30 April 2019
+![image](https://user-images.githubusercontent.com/13655567/188354975-318e4deb-50e7-4d53-abfa-02d853ad2910.png)
+ </p>
 <br><br>
 
