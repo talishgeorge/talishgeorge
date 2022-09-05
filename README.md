@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am funny😅**
 - 🔭 I’m currently working in Infosys
 
-<h3 align="left">Programming Knowns - Swift 5.6.2 & C# 10</h3>
+<h3 align="left">Programming Languages - Swift 5.6.2 & C# 10</h3>
 <p align="left">  </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
 <h3 align="left"> Skills and Tools:</h3>
