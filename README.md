@@ -50,6 +50,5 @@ MCSA - Microsoft® Certified Solutions Associate: Web Applications - Certified 2
        <br>
 Issued by: Microsoft Issued on: 30 April 2019
        <br>
-![image](https://user-images.githubusercontent.com/13655567/188354975-318e4deb-50e7-4d53-abfa-02d853ad2910.png)
  </p>
 
