@@ -40,12 +40,16 @@
 <h3 align="left">Certificaiton:</h3>
 <p aligin="left">
        AWS - Certified Solutions Architect – Associate
+       <br>
 Validation Number REDEPC7BLJV11C3Y 
+       <br>
 Validate at: http://aws.amazon.com/verification 
+       <br>
 
 MCSA - Microsoft® Certified Solutions Associate: Web Applications - Certified 2019
+       <br>
 Issued by: Microsoft Issued on: 30 April 2019
+       <br>
 ![image](https://user-images.githubusercontent.com/13655567/188354975-318e4deb-50e7-4d53-abfa-02d853ad2910.png)
  </p>
-<br><br>
 
