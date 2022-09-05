@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/talishgeorge](https://github.com/talishgeorge)
 
-- 🔭 I’m currently employed in Infosys
+- 🔭 I’m currently employed in Infosys ANZ
 
 <h3 align="left">Programming Languages - Swift 5.6.2 & C# 10</h3>
 <p align="left">  </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
@@ -34,7 +34,7 @@
        <br>
        Backend Development –.NET Core 6
  </p>
-<h3 align="left"> Work :</h3>
+<h3 align="left"> Project Experience:</h3>
 <p align="left"> 
        - 🔭 Current Project - Commonwealth Online Mobile App (https://apps.apple.com/au/app/commbank/id310251202)
        <br>
@@ -49,7 +49,7 @@
        <br>
               ---- Technology, Programming Languages & Tools	iOS, Swift 5.0, ObjC & Xcode 12.0
  </p>
-<h3 align="left">Certificaiton:</h3>
+<h3 align="left">Certificaitons:</h3>
 <p aligin="left">
        Azure – Developing Solutions for Microsoft Azure
         <br>
