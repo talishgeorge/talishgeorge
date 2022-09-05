@@ -23,11 +23,17 @@
        Primary Skill – iOS (Swift 5.5 & Objective C)
        <br>
        Secondary Skill – .NET Core API, JavaScript & Azure
+       <br>
        Databases – SQL Server & MySQL
-       Operating systems – Mac OS Big Sur& Windows 10
+       <br>
+       Operating systems – Mac OS Monterey Sur& Windows 11
+       <br>
        Development IDE – Xcode 13.4.1, Visual Studio 2022 & VS Code
+       <br>
        Version Controls – GIT using Sourcetree
+       <br>
        Design Tools – Visio & Adobe Photoshop
+       <br>
        Backend Development –.NET Core 6 & SQL Server
  </p>
 
