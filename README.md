@@ -41,14 +41,14 @@
 <p aligin="left">
        Azure – Developing Solutions for Microsoft Azure
         <br>
-Microsoft Certification ID: 993792659
+        Microsoft Certification ID: 993792659
         <br>
-Validate at: https://www.credly.com/go/8V4fMTsTTABBMs692lkwJw 
-
+        Validate at: https://www.credly.com/go/8V4fMTsTTABBMs692lkwJw 
+       <br>
 
        AWS - Certified Solutions Architect – Associate
        <br>
-Validation Number REDEPC7BLJV11C3Y 
+       Validation Number REDEPC7BLJV11C3Y 
        <br>
 Validate at: http://aws.amazon.com/verification 
        <br>
