@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/talishgeorge/talishgeorge/blob/main/PhotoRoom_20220905_130018_11.PNG)
+![logo](https://github.com/talishgeorge/talishgeorge/blob/main/PhotoRoom_20220905_130557_22.PNG)
 <h1 align="center">Hi 👋, I'm Talish George</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
