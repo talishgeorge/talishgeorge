@@ -44,7 +44,7 @@
 Microsoft Certification ID: 993792659
         <br>
 Validate at: https://www.credly.com/go/8V4fMTsTTABBMs692lkwJw 
- <br>
+
 
        AWS - Certified Solutions Architect – Associate
        <br>
