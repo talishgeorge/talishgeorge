@@ -19,15 +19,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> Primary Skill – iOS (Swift 5.5 & Objective C)
+<p align="left"> 
+       Primary Skill – iOS (Swift 5.5 & Objective C)
        Secondary Skill – .NET Core API, JavaScript & Azure
-Databases – SQL Server & MySQL
-Operating systems – Mac OS Big Sur& Windows 10
-Development IDE – Xcode 13.4.1, Visual Studio 2022 & VS Code
-Version Controls – GIT using Sourcetree
-Design Tools – Visio & Adobe Photoshop
-Backend Development –.NET Core 6 & SQL Server
-![image](https://user-images.githubusercontent.com/13655567/188353916-b44b1db9-ec67-4776-9d98-7d8541220514.png)
+       Databases – SQL Server & MySQL
+       Operating systems – Mac OS Big Sur& Windows 10
+       Development IDE – Xcode 13.4.1, Visual Studio 2022 & VS Code
+       Version Controls – GIT using Sourcetree
+       Design Tools – Visio & Adobe Photoshop
+       Backend Development –.NET Core 6 & SQL Server
  </p>
 
 <h3 align="left">Support:</h3>
