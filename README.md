@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/talishgeorge/talishgeorge/blob/main/adf.png)
+![logo](https://github.com/talishgeorge/talishgeorge/blob/main/PhotoRoom_20220905_1248111500*500.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
