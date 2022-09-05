@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
        Primary Skill – iOS (Swift 5.5 & Objective C)
+       <br>
        Secondary Skill – .NET Core API, JavaScript & Azure
        Databases – SQL Server & MySQL
        Operating systems – Mac OS Big Sur& Windows 10
