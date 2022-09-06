@@ -18,21 +18,42 @@
 
 <h3 align="left"> Skills and Tools:</h3>
 <p align="left"> 
-       Primary Skill – iOS (Swift 5.6.2 & Objective C)
-       <br>
-       Secondary Skill – .NET Core API 2022 & Azure
-       <br>
-       Databases – SQL Server 2019
-       <br>
-       Operating systems – Mac OS Monterey & Windows 11
-       <br>
-       Development IDE – Xcode 13.4.1, Visual Studio 2022 & VS Code
-       <br>
-       Version Controls – GIT using Sourcetree & GITHUB Desktop
-       <br>
-       Design Tools – Sketch, Canva, Visio & Adobe Photoshop
-       <br>
-       Backend Development –.NET Core 6
+<table>
+<tbody>
+   <tr>
+    <td>Primary Skill </td>
+    <td>iOS (Swift 5.6.2 &amp; Objective C)</td>
+  </tr>
+  <tr>
+    <td>Secondary Skill </td>
+    <td>.NET Core API 2022 &amp; Azure</td>
+  </tr>
+  <tr>
+    <td>Databases </td>
+    <td>SQL Server 2019</td>
+  </tr>
+  <tr>
+    <td>Operating systems</td>
+    <td>Mac OS Monterey &amp; Windows 11</td>
+  </tr>
+  <tr>
+    <td>Development IDE </td>
+    <td>Xcode 13.4.1, Visual Studio 2022 &amp; VS Code</td>
+  </tr>
+  <tr>
+    <td>Version Controls </td>
+    <td>GIT using Sourcetree &amp; GITHUB Desktop</td>
+  </tr>
+  <tr>
+    <td>Design Tools</td>
+    <td>Sketch, Canva, Visio &amp; Adobe Photoshop</td>
+  </tr>
+  <tr>
+    <td>Backend Development </td>
+    <td>.NET Core 6</td>
+  </tr>
+</tbody>
+</table>
  </p>
 <h3 align="left"> Project Experience:</h3>
 <p align="left"> 
