@@ -124,7 +124,7 @@
 <tbody>
    <tr>
     <td>Gulf Bank Online Banking App & Website</td>
-    <td>(https://itunes.apple.com/kw/app/gulf-bank-mobile-banking/id536178910?mt=8)</td>
+    <td>https://apps.apple.com/us/app/gulf-bank-mobile-banking/id1577206679</td>
   </tr>
   <tr>
     <td>Duration</td>
