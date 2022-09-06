@@ -36,18 +36,38 @@
  </p>
 <h3 align="left"> Project Experience:</h3>
 <p align="left"> 
-       - 🔭 Current Project - Commonwealth Online Mobile App (https://apps.apple.com/au/app/commbank/id310251202)
-       <br>
-              ---- Duration	April 2021 – June 2022
-       <br>
-              ---- Technology, Programming Languages & Tools	iOS, Swift 5.5, ObjC & Xcode 13.0
-       <br>
-       <br>
-       - 👯 Previous Project - SwedBank Online Mobile App (https://apps.apple.com/us/app/swedbank-private/id344161302)
-       <br>
-              ---- Duration	April 2020 – March 2021
-       <br>
-              ---- Technology, Programming Languages & Tools	iOS, Swift 5.0, ObjC & Xcode 12.0
+<table>
+<tbody>
+    <tr>
+    <td>Current Project</td>
+    <td>Commonwealth Online Mobile App (https://apps.apple.com/au/app/commbank/id310251202)2</td>
+  </tr>
+  <tr>
+    <td>Duration</td>
+    <td>April 2021 – June 2022</td>
+  </tr>
+  <tr>
+    <td>Technology, Programming Languages &amp; Tools</td>
+    <td>iOS, Swift 5.5, ObjC &amp; Xcode 13.0</td>
+  </tr>
+</tbody>
+</table>
+ <table>
+<tbody>
+   <tr>
+    <td>Previous Project</td>
+    <td>SwedBank Online Mobile App (https://apps.apple.com/us/app/swedbank-private/id344161302)</td>
+  </tr>
+  <tr>
+    <td>Duration</td>
+    <td>April 2020 – March 2021</td>
+  </tr>
+  <tr>
+    <td>Technology, Programming Languages &amp; Tools</td>
+    <td>iOS, Swift 5.0, ObjC & Xcode 12.0</td>
+  </tr>
+</tbody>
+</table>
  </p>
 <h3 align="left">Certificaitons:</h3>
 <p aligin="left">
