@@ -60,8 +60,8 @@
 <table>
 <tbody>
     <tr>
-    <td>Current Project</td>
-    <td>Commonwealth Online Mobile App (https://apps.apple.com/au/app/commbank/id310251202)2</td>
+    <td>Commonwealth Online Mobile App</td>
+    <td>https://apps.apple.com/au/app/commbank/id310251202</td>
   </tr>
   <tr>
     <td>Duration</td>
@@ -71,13 +71,17 @@
     <td>Technology, Programming Languages &amp; Tools</td>
     <td>iOS, Swift 5.5, ObjC &amp; Xcode 13.0</td>
   </tr>
+   <tr>
+    <td>Project Description</td>
+    <td>The CommonWealth online iOS app is a secure way of managing all your banking needs.</td>
+  </tr>
 </tbody>
 </table>
  <table>
 <tbody>
    <tr>
-    <td>Previous Project</td>
-    <td>SwedBank Online Mobile App (https://apps.apple.com/us/app/swedbank-private/id344161302)</td>
+    <td>SwedBank Online Mobile App </td>
+    <td>https://apps.apple.com/us/app/swedbank-private/id344161302</td>
   </tr>
   <tr>
     <td>Duration</td>
@@ -86,6 +90,32 @@
   <tr>
     <td>Technology, Programming Languages &amp; Tools</td>
     <td>iOS, Swift 5.0, ObjC & Xcode 12.0</td>
+  </tr>
+    <tr>
+    <td>Project Description</td>
+    <td>With Swedbank online iOS app, user can manage everyday finances whenever and wherever user want. Among other things, user can see balance without     logging in, make fast transfers and OCR scan bills.
+ </td>
+  </tr>
+</tbody>
+</table>
+<table>
+<tbody>
+   <tr>
+    <td>Gulf Bank Online Banking App & Website</td>
+    <td>(https://itunes.apple.com/kw/app/gulf-bank-mobile-banking/id536178910?mt=8)</td>
+  </tr>
+  <tr>
+    <td>Duration</td>
+    <td>May 2016 – May 2019</td>
+  </tr>
+  <tr>
+    <td>Technology, Programming Languages &amp; Tools</td>
+    <td>Angular Framework, Spring Boot, Swift, ObjC, JavaScript, Visual Studio, IntelliJ & XCode</td>
+  </tr>
+    <tr>
+    <td>Project Description</td>
+    <td>Gulf Bank Online Banking System is a web application built on top the Angular Framework. This banking online project is completely responsive and render in  all the browser, including mobile Browser. For iOS and Android platform, individual native application has developed to meet all banking requirements and the latest version can download for free from Appstore the below links.
+</td>
   </tr>
 </tbody>
 </table>
