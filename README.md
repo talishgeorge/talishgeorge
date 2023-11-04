@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently employed in Infosys ANZ
 
-<h3 align="left">Programming Languages - Swift 5.6.2 & C# 10</h3>
+<h3 align="left">Programming Languages - Swift 5.9, Typescript & C# 10</h3>
 <p align="left">  </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
 <h3 align="left"> Skills and Tools:</h3>
@@ -22,7 +22,7 @@
 <tbody>
    <tr>
     <td>Primary Skill </td>
-    <td>iOS (Swift 5.6.2 &amp; Objective C)</td>
+    <td>iOS (SDK 17 &amp; Objective C)</td>
   </tr>
   <tr>
     <td>Secondary Skill </td>
@@ -34,11 +34,11 @@
   </tr>
   <tr>
     <td>Operating systems</td>
-    <td>Mac OS Monterey &amp; Windows 11</td>
+    <td>Mac OS Sonoma &amp; Windows 11</td>
   </tr>
   <tr>
     <td>Development IDE </td>
-    <td>Xcode 13.4.1, Visual Studio 2022 &amp; VS Code</td>
+    <td>Xcode 15.0, Visual Studio 2022 &amp; VS Code</td>
   </tr>
   <tr>
     <td>Version Controls </td>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td>Technology, Programming Languages &amp; Tools</td>
-    <td>iOS, Swift 5.5, ObjC &amp; Xcode 13.0</td>
+    <td>iOS, Swift 5.9, ObjC &amp; React JS, & For iOS app development, Xcode is the primary IDE (integrated development environment) used. </td>
   </tr>
    <tr>
     <td>Project Description</td>
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>Technology, Programming Languages &amp; Tools</td>
-    <td>iOS, Swift 5.0, ObjC & Xcode 12.0</td>
+    <td>iOS, Swift 9.0, ObjC & Xcode 12.0</td>
   </tr>
     <tr>
     <td>Project Description</td>
