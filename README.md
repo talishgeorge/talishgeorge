@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Secondary Skill </td>
-    <td>.NET Core API 2022 &amp; Azure</td>
+    <td>React JS, .NET Core API 2022 &amp; Azure</td>
   </tr>
   <tr>
     <td>Databases </td>
